@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @xsywish
+- 👋 Hi, I’m @xsywish [主站](https://xsywish.github.io/) [blog地址](https://xsywish.github.io/xsywish/) 
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning github.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me xsy965398@gail.com.
-- This is branch master
 
 <!---
 xsywish/xsywish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
